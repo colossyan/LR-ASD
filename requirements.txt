@@ -1,0 +1,11 @@
+scenedetect
+opencv-python
+python_speech_features
+sklearn
+torch
+torchvision
+numpy
+pandas
+tqdm
+scipy
+matplotlib
