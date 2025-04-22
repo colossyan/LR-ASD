@@ -5,7 +5,7 @@ def read_requirements(file_path):
         return f.read().splitlines()
 
 setup(
-    name='LR-ASD',
+    name='lr_asd',
     version='0.1.0',   # Initial version
     packages=find_packages(),  # Automatically find packages in the directory
     install_requires=read_requirements('requirements.txt'),  # List of dependencies
