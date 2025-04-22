@@ -1,7 +1,7 @@
 scenedetect
 opencv-python
 python_speech_features
-sklearn
+scikit-learn
 torch
 torchvision
 numpy
