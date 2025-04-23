@@ -1,8 +1,8 @@
 import time, os, torch, argparse, warnings, glob
 
-from dataLoader import train_loader, val_loader
-from utils.tools import *
-from ASD import ASD
+from .dataLoader import train_loader, val_loader
+from .utils.tools import *
+from .ASD import ASD
 
 def main():
     # This code is modified based on this [repository](https://github.com/TaoRuijie/TalkNet-ASD).

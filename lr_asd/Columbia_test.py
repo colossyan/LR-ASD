@@ -12,8 +12,8 @@ from scenedetect.frame_timecode import FrameTimecode
 from scenedetect.stats_manager import StatsManager
 from scenedetect.detectors import ContentDetector
 
-from model.faceDetector.s3fd import S3FD
-from ASD import ASD
+from .model.faceDetector.s3fd import S3FD
+from .ASD import ASD
 
 warnings.filterwarnings("ignore")
 
