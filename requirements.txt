@@ -2,7 +2,7 @@ scenedetect
 opencv-python
 python_speech_features
 scikit-learn
-torch==2.2.0
+torch==2.7.0
 torchvision==0.17.0
 numpy
 pandas
