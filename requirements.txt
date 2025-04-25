@@ -2,11 +2,10 @@ scenedetect
 opencv-python
 python_speech_features
 scikit-learn
+torch
+torchvision
 numpy
 pandas
 tqdm
 scipy
 matplotlib
-torch==2.2.1
-torchvision==0.17.1
---extra-index-url https://download.pytorch.org/whl/cu118
